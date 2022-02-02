@@ -1,4 +1,4 @@
-## React Videos Search: [Demo](https://react-videos-search.netlify.app/)
+# React Videos Search: [Demo](https://react-videos-search.netlify.app/)
 
 # Getting Started with Create React App
 
